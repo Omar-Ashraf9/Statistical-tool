@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523796101 source:d:\c++ programms\assignment3.v.2.0\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<string>
+	<valarray>
+
